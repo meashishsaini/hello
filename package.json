@@ -1,0 +1,10 @@
+{
+  "name": "hello",
+  "description": "",
+  "author": "meashishsaini <sainiashish08@gmail.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "lib": "latest"
+  },
+  "publish": false
+}
